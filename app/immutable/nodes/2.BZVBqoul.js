@@ -1,0 +1,1 @@
+import{a as t,t as n}from"../chunks/disclose-version.DmngbV3w.js";import"../chunks/legacy._iPlEy4v.js";var e=n("<main>Hello World</main>");function m(a){var o=e();t(a,o)}function i(a){m(a)}export{i as component};
